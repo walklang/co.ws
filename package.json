@@ -1,0 +1,18 @@
+{
+    "name": "co.ws",
+    "version": "1.0.0",
+    "description": "co.ws: URL shortener.",
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/walklang/co.ws.git"
+    },
+    "keywords": ["URL shortener"],
+    "author": "suhao",
+    "license": "MIT",
+    "dependencies": {
+        "react": "16.8.1"
+    }
+}
